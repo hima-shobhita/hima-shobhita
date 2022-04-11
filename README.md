@@ -1,4 +1,8 @@
 # todos
+ 
+Access using github pages : https://hima-shobhita.github.io/todo-app/#/ 
+
+Install the application using below steps:
 
 ## Project setup
 ```
