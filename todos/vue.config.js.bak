@@ -1,5 +1,5 @@
 const { defineConfig } = require('@vue/cli-service')
 module.exports = defineConfig({
-  publicPath: '/hima-shobhita/',
+  base: '/hima-shobhita/',
   transpileDependencies: true
 })
